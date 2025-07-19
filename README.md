@@ -484,7 +484,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [GPT Mobile](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
 * [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 * [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input.
-* [Excel Assistant](https://github.com/mgsray/gigigrid-ai-excel) – A free AI-powered assistant that helps users handling excel, generate formulas, clean data, and automate Excel workflows with natural language.
+* [Excel Assistant](https://github.com/mgsray/gigigrid-ai-excel) – A free AI-powered assistant that helps user handling excel, generate formulas, clean data, and automate Excel workflows with natural language.
 
 # Code and Programming
 
